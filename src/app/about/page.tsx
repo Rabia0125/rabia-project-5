@@ -7,7 +7,7 @@ const About = () => {
         <div className='flex lg:grid-cols-2 gap-20 justify-center items-center'>
             <div>
                 <h1 className='text-6xl font-bold text-center text-blue-400 mb-10'>About Me</h1>
-                <p className='text-2xl text-blue-200 text-center'>
+                <p className='text-2xl text-blue-100 text-center'>
                   I am a student at GIAIC, pursuing a course in 
                   <b className='text-blue-300'>Artificial Intelligence, Web 3.0 Metaverse</b>.
                   Passionate abiut technologies and constantly learning new skills to stay up-to-date with

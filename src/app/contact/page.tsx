@@ -14,7 +14,7 @@ const Contact = () => {
         <TfiEmail size={30}/> rabiamashkoor758@gmail.com
         </div>
         <div className='flex gap-3 text-blue-300 items-center'>
-        <BsFillTelephoneFill size={30}/>(021) 000-0000
+        <BsFillTelephoneFill size={30}/>(021)-111-2222
         </div>
         <div className='space-y-8'>
           <div className='flex flex-col gap-1'>

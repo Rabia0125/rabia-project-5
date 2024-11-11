@@ -3,7 +3,7 @@ import { FiMenu } from "react-icons/fi";
 
 const Navbar = () => {
   return (
-    <div className='container pt-4'>
+    <div className='container pt-2'>
         <div className='flex justify-between items-center'>
             <div className='text-2xl text-blue-400 font-medium'>:-) Khan</div>
             <FiMenu className='md:hidden' size={30} />
