@@ -9,9 +9,9 @@ const Navbar = () => {
             <FiMenu className='md:hidden' size={30} />
             <ul className='gap-10 lg-gap-15 hidden md:flex'>
                 <li className='menuLink text-xl text-blue-400'><a href="#home">Home</a></li>
-                <li className='menuLink text-xl text-blue-400'><a href="#about">About</a></li>
                 <li className='menuLink text-xl text-blue-400'><a href="#skills">Skills</a></li>
                 <li className='menuLink text-xl text-blue-400'><a href="#contact">Contact</a></li>
+                <li className='menuLink text-xl text-blue-400'><a href="#about">About</a></li>
             </ul>
         </div>
     </div>

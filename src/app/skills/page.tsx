@@ -4,7 +4,7 @@ const Skills = () => {
   return (
     <div id='skills' className='container pt-30'>
         <div className='grid md:grid-cols-2 gap-20 items-center'>
-            <div>
+            <div data-aos="zoom-in-up"> 
                 <h2 className='text-4xl text-blue-400 md:text-5xl font-bold'>SKILLS</h2>
                 <p className='text-blue-200 text-xl pt-2'>
                     I have a solid foundation in web development, specializing in HTML, CSS & JAVASRIPT. 
@@ -17,14 +17,14 @@ const Skills = () => {
             <div>
                 <div className='grid md:grid-cols-2 text-accent-foreground text-5xl sem:text-4xl'>
                     <div className='text-blue-300 space-y-4'>
-                        <h2>Node.js</h2>
-                        <h2>TypeScript</h2>
-                        <h2>React</h2>
+                        <h2 data-aos="zoom-in-up">Node.js</h2>
+                        <h2 data-aos="zoom-in-up">TypeScript</h2>
+                        <h2 data-aos="zoom-in-up">React</h2>
                     </div>
                     <div className='text-blue-300 space-y-4'>
-                        <h2>Next.js</h2>
-                        <h2>Tailwind</h2>
-                        <h2>CSS</h2>
+                        <h2 data-aos="zoom-in-up">Next.js</h2>
+                        <h2 data-aos="zoom-in-up">Tailwind</h2>
+                        <h2 data-aos="zoom-in-up">CSS</h2>
                     </div>
                 </div>
             </div>

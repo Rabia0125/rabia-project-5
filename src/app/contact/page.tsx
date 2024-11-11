@@ -33,7 +33,7 @@ const Contact = () => {
             className='bg-transparent border border-accent' 
             id='message' rows={8}></textarea>
           </div>
-          <button className='bg-accent p-2 px-6 bg-blue-500 font-bold'>Send</button>
+          <button className='p-2 px-10 bg-blue-500 font-bold'>SEND</button>
         </div>
       </div>
     </div>
